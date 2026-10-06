@@ -35,3 +35,16 @@ The final clean dataset has 531 transactions.
 Python · pandas · matplotlib · Google Colab · Git/GitHub
 
 ## Repository structure
+- `data/transactions_2025_26.csv`: raw (messy) dataset
+- `images/`: charts used in this README
+- `personal_finance_analysis.ipynb`: full analysis notebook
+
+## How to run
+
+Open `personal_finance_analysis.ipynb` in Google Colab or Jupyter. The notebook loads the data directly from this repository, so no setup is needed beyond pandas and matplotlib.
+
+## Next steps
+
+- Break spending down by day of the week and by merchant
+- Build a simple monthly budget and compare actual spending against it
+- Forecast end-of-term balance between loan payments
