@@ -1,0 +1,544 @@
+Date,Description,Category,Amount,Type,Payment_Method
+01/10/2025,McDonald's,Eating Out,6.05,Debit,Card
+01/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+01/10/2025,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+01/10/2025,Student Finance England,Income,3300,Credit,Bank Transfer
+02/10/2025,TfL Travel,Transport,5.25,Debit,Contactless
+02/10/2025,JD Sports,Shopping,46.89,Debit,Card
+02/10/2025,Transfer to parents,Household,120,Debit,Bank Transfer
+03/10/2025,TfL Travel,Transport ,3.5,Debit,Contactless
+03/10/2025,Amazon,Education,6.84,Debit,Card
+03/10/2025,Part-time job wages,Income,146.52,Credit,Bank Transfer
+04/10/2025,Co-op,Groceries,34.33,Debit,Card
+06/10/2025,Costa Coffee,Eating Out,10.25,Debit,Card
+06/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+06/10/2025,giffgaff,Bills,12,Debit,Direct Debit
+07/10/2025,Tesco,Groceries,13.33,Debit,Card
+07/10/2025,Subway,Eating Out,8.32,Debit,Card
+07/10/2025,Just Eat,Eating Out,26.02,Debit,Card
+07/10/2025,TfL Travel,Transport,5.25,Debit,Contactless
+08/10/2025,Wasabi,Eating Out,15.52,Debit,Card
+08/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+08/10/2025,Primark,Shopping,14.17,Debit,Card
+08/10/2025,Spotify,Subscriptions,5.99,Debit,Card
+09/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+09/10/2025,Primark,Shopping,£45.90,Debit,Card
+10/10/2025,Wasabi,Eating Out,4.79,Debit,Card
+10/10/2025,Just Eat,,26.01,Debit,Card
+10/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+10/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+11/10/2025,Sainsbury's,Groceries,10.89,Debit,Card
+11/10/2025,Superdrug,Shopping,34.32,Debit,Card
+14/10/2025,Co-op,Groceries,30.17,Debit,Card
+14/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+14/10/2025,Netflix,Subscriptions,5.99,Debit,Card
+15/10/2025,Nando's,Eating Out,2.6,Debit,Card
+15/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+16/10/2025,Five Guys,Eating Out,6.02,Debit,Card
+16/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+17/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+17/10/2025,Part-time job wages,Income,122.1,Credit,Bank Transfer
+18/10/2025,Lidl,Groceries,20.8,Debit,Card
+19/10/2025,Tesco,Groceries,35.64,Debit,Card
+20/10/2025,Five Guys,,6.64,Debit,Card
+21/10/2025,Tesco,Groceries,24.53,Debit,Card
+21/10/2025,TfL Travel,Transport,5.25,Debit,Contactless
+22/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+22/10/2025,Odeon,Entertainment ,22.35,Debit,Card
+24/10/2025,Five Guys,Eating Out,11.51,Debit,Card
+24/10/2025,TfL Travel,Transport,3.5,Debit,Contactless
+25/10/2025,Lidl,Groceries,11.05,Debit,Card
+25/10/2025,Ticketmaster,Entertainment,17.68,Debit,Card
+26/10/2025,Pret A Manger,Eating Out,15.4,Debit,Card
+28/10/2025,Sainsbury's,Groceries,26.39,Debit,Card
+28/10/2025,Five Guys,Eating Out,10.5,Debit,Card
+28/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+28/10/2025,Steam,Entertainment,28.72,Debit,Card
+29/10/2025,Greggs,Eating Out,15.53,Debit,Card
+29/10/2025,TfL Travel,Transport,1.75,Debit,Contactless
+30/10/2025,Costa Coffee,Eating Out,£16.65,Debit,Card
+30/10/2025,Bolt,Transport,£20.52,Debit,Card
+31/10/2025,TfL Travel,Transport,5.25,Debit,Contactless
+31/10/2025,Part-time job wages,Income,122.1,Credit,Bank Transfer
+01/11/2025,Sainsbury's,Groceries,6.76,Debit,Card
+01/11/2025,Subway,Eating Out,6.54,Debit,Card
+01/11/2025,Uber Eats,Eating Out,17.62,Debit,Card
+01/11/2025,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/11/2025,McDonald's,Eating Out,3.05,Debit,Card
+02/11/2025,Transfer to parents,Household,120,Debit,Bank Transfer
+03/11/2025,Greggs,Eating Out,12.78,Debit,Card
+03/11/2025,Just Eat,Eating Out ,22.99,Debit,Card
+04/11/2025,Co-op,Groceries,16.05,Debit,Card
+04/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+05/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+06/11/2025,giffgaff,Bills,12,Debit,Direct Debit
+07/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+07/11/2025,Vue Cinema,Entertainment,44.37,Debit,Card
+08/11/2025,Tesco,Groceries,20.57,Debit,Card
+08/11/2025,Spotify,Subscriptions,5.99,Debit,Card
+10/11/2025,TfL Travel,Transport,5.25,Debit,Contactless
+11/11/2025,Co-op,Groceries,32.08,Debit,Card
+12/11/2025,Five Guys,Eating Out,11.59,Debit,Card
+12/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+13/11/2025,Nando's,Eating Out,3.43,Debit,Card
+13/11/2025,Nando's,Eating Out,3.43,Debit,Card
+13/11/2025,TfL Travel,Transport,5.25,Debit,Contactless
+14/11/2025,Co-op,Groceries,18.17,Debit,Card
+14/11/2025,Subway,Eating Out,6.83,Debit,Card
+14/11/2025,Netflix,SUBSCRIPTIONS,5.99,Debit,Card
+14/11/2025,Part-time job wages,Income,146.52,Credit,Bank Transfer
+15/11/2025,Sainsbury's,Groceries,14.73,Debit,Card
+17/11/2025,Subway,Eating Out,5.57,Debit,Card
+18/11/2025,Tesco,Groceries,29.97,Debit,Card
+18/11/2025,Subway,Eating Out,5.75,Debit,Card
+18/11/2025,Just Eat,Eating Out,12.64,Debit,Card
+18/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+19/11/2025,McDonald's,Eating Out,13.62,Debit,Card
+20/11/2025,Lidl,Groceries,24.43,Debit,Card
+22/11/2025,Lidl,Groceries,6.4,Debit,Card
+25/11/2025,Lidl,Groceries,6.92,Debit,Card
+25/11/2025,TfL Travel,Transport,3.5,Debit,Contactless
+25/11/2025,Waterstones,Education,7.08,Debit,Card
+27/11/2025,Subway,Eating Out ,9.36,Debit,Card
+27/11/2025,TfL Travel,Transport,£3.50,Debit,Contactless
+28/11/2025,Part-time job wages,Income,195.36,Credit,Bank Transfer
+29/11/2025,Lidl,Groceries,37.38,Debit,Card
+30/11/2025,Lidl,Groceries,28.32,Debit,Card
+30/11/2025,Five Guys,Eating Out,3.99,Debit,Card
+30/11/2025,Uber Eats,Eating Out,19.51,Debit,Card
+30/11/2025,ASOS,Shopping,11.85,Debit,Card
+01/12/2025,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/12/2025,Co-op,Groceries,31.3,Debit,Card
+02/12/2025,Wasabi,Eating Out,9.03,Debit,Card
+02/12/2025,Transfer to parents,Household,120,Debit,Bank Transfer
+03/12/2025,Nando's,Eating Out,6.34,Debit,Card
+03/12/2025,TfL Travel,Transport,1.75,Debit,Contactless
+04/12/2025,Five Guys,Eating Out,3.53,Debit,Card
+04/12/2025,TfL Travel,Transport,3.5,Debit,Contactless
+05/12/2025,Sainsbury's,Groceries,31.36,Debit,Card
+06/12/2025,Co-op,Groceries,21.8,Debit,Card
+06/12/2025,Greggs,,15.4,Debit,Card
+06/12/2025,giffgaff,Bills,12,Debit,Direct Debit
+07/12/2025,McDonald's,Eating Out,10.86,Debit,Card
+08/12/2025,TfL Travel,Transport,5.25,Debit,Contactless
+08/12/2025,Spotify,Subscriptions,5.99,Debit,Card
+09/12/2025,Lidl,Groceries,£27.20,Debit,Card
+09/12/2025,TfL Travel,Transport,1.75,Debit,Contactless
+10/12/2025,TfL Travel,Transport,3.5,Debit,Contactless
+11/12/2025,McDonald's,Eating Out,8.85,Debit,Card
+11/12/2025,TfL Travel,Transport,3.5,Debit,Contactless
+11/12/2025,Argos,Shopping,10.59,Debit,Card
+12/12/2025,Costa Coffee,Eating Out,9.73,Debit,Card
+12/12/2025,TfL Travel,Transport,3.5,Debit,Contactless
+12/12/2025,Part-time job wages,Income,122.1,Credit,Bank Transfer
+12/12/2025,John Lewis,Gifts,30.25,Debit,Card
+13/12/2025,Sainsbury's,Groceries,33.65,Debit,Card
+13/12/2025,Wasabi,Eating Out,7.43,Debit,Card
+13/12/2025,Trainline,Transport,44.04,Debit,Card
+14/12/2025,Netflix,Subscriptions,5.99,Debit,Card
+15/12/2025,Wasabi,Eating Out,5.89,Debit,Card
+15/12/2025,Wasabi,Eating Out,5.89,Debit,Card
+16/12/2025,Sainsbury's,Groceries,21.85,Debit,Card
+16/12/2025,Subway,Eating Out,15.11,Debit,Card
+17/12/2025,Five Guys,Eating Out,13.83,Debit,Card
+18/12/2025,John Lewis,Gifts,£42.63,Debit,Card
+20/12/2025,Tesco,Groceries,7.47,Debit,Card
+21/12/2025,Wasabi,Eating Out,11.49,Debit,Card
+21/12/2025,Amazon,Gifts,41.97,Debit,Card
+22/12/2025,Costa Coffee,Eating Out,3.57,Debit,Card
+23/12/2025,Lidl,Groceries,12.37,Debit,Card
+26/12/2025,Part-time job wages,Income,293.04,Credit,Bank Transfer
+27/12/2025,Tesco,Groceries,24.55,Debit,Card
+30/12/2025,Aldi,Groceries,36.95,Debit,Card
+30/12/2025,Trainline,Transport,36.46,Debit,Card
+31/12/2025,Superdrug,Shopping,59.92,Debit,Card
+01/01/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/01/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/01/2026,Sainsbury's,Groceries,34.33,Debit,Card
+03/01/2026,Amazon,Education,38.22,Debit,Card
+04/01/2026,Subway,Eating Out,10.39,Debit,Card
+06/01/2026,Co-op,Groceries,12.57,Debit,Card
+06/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+06/01/2026,Vue Cinema,Entertainment,44.51,Debit,Card
+06/01/2026,giffgaff,Bills,£12.00,Debit,Direct Debit
+07/01/2026,Greggs,Eating Out,4.41,Debit,Card
+08/01/2026,Five Guys,Eating Out,13.78,Debit,Card
+08/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+08/01/2026,Spotify,Subscriptions,£5.99,Debit,Card
+09/01/2026,Uber Eats,Eating Out,25.56,Debit,Card
+09/01/2026,TfL Travel,Transport,1.75,Debit,Contactless
+09/01/2026,Part-time job wages,Income,97.68,Credit,Bank Transfer
+10/01/2026,Sainsbury's,Groceries,14.8,Debit,Card
+12/01/2026,TfL Travel,Transport,1.75,Debit,Contactless
+12/01/2026,Student Finance England,Income,3300,Credit,Bank Transfer
+13/01/2026,Aldi,Groceries,8.15,Debit,Card
+13/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+14/01/2026,Netflix,subscriptions,5.99,Debit,Card
+15/01/2026,Five Guys,Eating Out,£5.75,Debit,Card
+16/01/2026,Bolt,Transport,£8.46,Debit,Card
+17/01/2026,Sainsbury's,Groceries,33.84,Debit,Card
+17/01/2026,Uniqlo,Shopping,27.57,Debit,Card
+20/01/2026,Co-op,Groceries,21.57,Debit,Card
+20/01/2026,Uber Eats,Eating Out,27.75,Debit,Card
+20/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+20/01/2026,iCloud+,Subscriptions,0.99,Debit,Card
+21/01/2026,Aldi,Groceries,11.62,Debit,Card
+21/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+21/01/2026,Amazon,Shopping,32.59,Debit,Card
+22/01/2026,TfL Travel,Transport,5.25,Debit,Contactless
+22/01/2026,Bolt,Transport,10.75,Debit,Card
+23/01/2026,Wasabi,Eating Out,,Debit,Card
+23/01/2026,TfL Travel,Transport,3.5,Debit,Contactless
+23/01/2026,Part-time job wages,Income,195.36,Credit,Bank Transfer
+24/01/2026,Co-op,Groceries,12.2,Debit,Card
+25/01/2026,Pret A Manger,Eating Out,5.07,Debit,Card
+27/01/2026,Lidl,Groceries,24.93,Debit,Card
+27/01/2026,TfL Travel,Transport,1.75,Debit,Contactless
+28/01/2026,TfL Travel,Transport,1.75,Debit,Contactless
+29/01/2026,Pret A Manger,Eating Out,14.26,Debit,Card
+29/01/2026,ASOS,Shopping,64.46,Debit,Card
+31/01/2026,Co-op,Groceries,27.71,Debit,Card
+31/01/2026,Costa Coffee,Eating Out,7.33,Debit,Card
+01/02/2026,The Gym Group,Health & Fitness ,24.99,Debit,Direct Debit
+02/02/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/02/2026,Aldi,Groceries,12.14,Debit,Card
+03/02/2026,TfL Travel,Transport,1.75,Debit,Contactless
+04/02/2026,TfL Travel,Transport,3.5,Debit,Contactless
+05/02/2026,TfL Travel,Transport,3.5,Debit,Contactless
+06/02/2026,giffgaff,Bills,12,Debit,Direct Debit
+06/02/2026,Part-time job wages,Income,146.52,Credit,Bank Transfer
+07/02/2026,Sainsbury's,Groceries,32.14,Debit,Card
+08/02/2026,Spotify,Subscriptions,5.99,Debit,Card
+09/02/2026,Five Guys,Eating Out,15.33,Debit,Card
+09/02/2026,TfL Travel,Transport,5.25,Debit,Contactless
+10/02/2026,Tesco,Groceries,32.85,Debit,Card
+10/02/2026,TfL Travel,Transport,3.5,Debit,Contactless
+11/02/2026,Deliveroo,Eating Out,25.36,Debit,Card
+11/02/2026,TfL Travel,Transport,5.25,Debit,Contactless
+13/02/2026,TfL Travel,Transport,1.75,Debit,Contactless
+14/02/2026,Co-op,Groceries,£23.73,Debit,Card
+14/02/2026,Odeon,entertainment,19.45,Debit,Card
+14/02/2026,Netflix,Subscriptions,5.99,Debit,Card
+17/02/2026,Tesco,Groceries,31.32,Debit,Card
+17/02/2026,TfL Travel,transport,5.25,Debit,Contactless
+18/02/2026,TfL Travel,Transport,1.75,Debit,Contactless
+19/02/2026,Five Guys,Eating Out,7.83,Debit,Card
+19/02/2026,TfL Travel,Transport,1.75,Debit,Contactless
+20/02/2026,McDonald's,Eating Out,6.94,Debit,Card
+20/02/2026,TfL Travel,Transport,5.25,Debit,Contactless
+20/02/2026,iCloud+,Subscriptions,0.99,Debit,Card
+20/02/2026,Part-time job wages,Income,146.52,Credit,Bank Transfer
+21/02/2026,Tesco,Groceries,8.4,Debit,Card
+22/02/2026,Pret A Manger,Eating Out,5.92,Debit,Card
+22/02/2026,JD Sports,Shopping,45.74,Debit,Card
+23/02/2026,TfL Travel,Transport,3.5,Debit,Contactless
+24/02/2026,Co-op,Groceries,9.77,Debit,Card
+24/02/2026,TfL Travel,Transport,3.5,Debit,Contactless
+26/02/2026,Costa Coffee,Eating Out,12.82,Debit,Card
+27/02/2026,Subway,Eating Out,9.28,Debit,Card
+27/02/2026,TfL Travel,Transport,1.75,Debit,Contactless
+28/02/2026,Aldi,Groceries,32.35,Debit,Card
+28/02/2026,Subway,Eating Out,11.81,Debit,Card
+01/03/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/03/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/03/2026,Sainsbury's,Groceries,26,Debit,Card
+04/03/2026,Deliveroo,Eating Out,13.3,Debit,Card
+05/03/2026,Co-op,Groceries,15.27,Debit,Card
+06/03/2026,Costa Coffee,Eating Out,7.03,Debit,Card
+06/03/2026,giffgaff,Bills,12,Debit,Direct Debit
+06/03/2026,Part-time job wages,Income,146.52,Credit,Bank Transfer
+07/03/2026,Sainsbury's,Groceries,20.93,Debit,Card
+07/03/2026,Nando's,,4.54,Debit,Card
+07/03/2026,Uber Eats,Eating Out,25.83,Debit,Card
+08/03/2026,Costa Coffee,Eating Out,9.72,Debit,Card
+08/03/2026,Argos,,35.33,Debit,Card
+08/03/2026,Spotify,Subscriptions,6.99,Debit,Card
+09/03/2026,Five Guys,Eating Out,11.16,Debit,Card
+09/03/2026,Trainline,Transport,19.3,Debit,Card
+10/03/2026,Aldi,Groceries,17.71,Debit,Card
+10/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+11/03/2026,Pret A Manger,Eating Out,8.21,Debit,Card
+11/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+12/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+13/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+14/03/2026,Lidl,Groceries,31.5,Debit,Card
+14/03/2026,Bolt,Transport,12.25,Debit,Card
+14/03/2026,Netflix,Subscriptions,5.99,Debit,Card
+15/03/2026,Aldi,,11.46,Debit,Card
+15/03/2026,Hollywood Bowl,Entertainment,10.29,Debit,Card
+16/03/2026,Nando's,Eating Out,8.45,Debit,Card
+17/03/2026,Lidl,Groceries,37.94,Debit,Card
+18/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+19/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+20/03/2026,TfL Travel,Transport,1.75,Debit,Contactless
+20/03/2026,iCloud+,Subscriptions,0.99,Debit,Card
+20/03/2026,Part-time job wages,Income,195.36,Credit,Bank Transfer
+21/03/2026,Lidl,Groceries,35.86,Debit,Card
+22/03/2026,Wasabi,Eating Out,£7.29,Debit,Card
+24/03/2026,Co-op,Groceries,13.43,Debit,Card
+24/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+24/03/2026,PlayStation Store,Entertainment,36.73,Debit,Card
+25/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+27/03/2026,Subway,Eating Out,13.97,Debit,Card
+28/03/2026,Tesco,Groceries,18.83,Debit,Card
+28/03/2026,Costa Coffee,Eating Out,9.42,Debit,Card
+28/03/2026,Bolt,Transport,11.77,Debit,Card
+29/03/2026,Lidl,Groceries,28.17,Debit,Card
+29/03/2026,Pret A Manger,Eating Out,9.25,Debit,Card
+30/03/2026,TfL Travel,Transport,3.5,Debit,Contactless
+31/03/2026,Aldi,Groceries,30.24,Debit,Card
+01/04/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/04/2026,TfL Travel,Transport,5.25,Debit,Contactless
+02/04/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/04/2026,TfL Travel,Transport,1.75,Debit,Contactless
+03/04/2026,Superdrug,,47.02,Debit,Card
+03/04/2026,Part-time job wages,Income,97.68,Credit,Bank Transfer
+04/04/2026,Aldi,Groceries,7.02,Debit,Card
+06/04/2026,Wasabi,Eating Out,10.17,Debit,Card
+06/04/2026,TfL Travel,Transport,1.75,Debit,Contactless
+06/04/2026,giffgaff,Bills,12,Debit,Direct Debit
+07/04/2026,Aldi,Groceries,32.35,Debit,Card
+07/04/2026,Subway,Eating Out,4.75,Debit,Card
+08/04/2026,Pret A Manger,Eating Out,3.96,Debit,Card
+08/04/2026,Just Eat,Eating Out,22.75,Debit,Card
+08/04/2026,Spotify,Subscriptions,6.99,Debit,Card
+09/04/2026,McDonald's,Eating Out,£5.90,Debit,Card
+09/04/2026,TfL Travel,Transport,3.5,Debit,Contactless
+11/04/2026,Aldi,Groceries,£31.15,Debit,Card
+11/04/2026,Wasabi,Eating Out ,8.42,Debit,Card
+12/04/2026,Uber Eats,Eating Out,£27.48,Debit,Card
+14/04/2026,Sainsbury's,Groceries,31.75,Debit,Card
+14/04/2026,TfL Travel,Transport,3.5,Debit,Contactless
+14/04/2026,Vue Cinema,Entertainment,43.52,Debit,Card
+14/04/2026,Netflix,Subscriptions,5.99,Debit,Card
+16/04/2026,TfL Travel,Transport,5.25,Debit,Contactless
+17/04/2026,Greggs,Eating Out,10.66,Debit,Card
+17/04/2026,TfL Travel,Transport,3.5,Debit,Contactless
+17/04/2026,Part-time job wages,Income,122.1,Credit,Bank Transfer
+18/04/2026,Aldi,Groceries,24.23,Debit,Card
+18/04/2026,Subway,Eating Out,6.23,Debit,Card
+20/04/2026,Brunel Students' Union,Education,20.42,Debit,Card
+20/04/2026,iCloud+,Subscriptions,0.99,Debit,Card
+20/04/2026,Student Finance England,Income,3300,Credit,Bank Transfer
+21/04/2026,Tesco,Groceries,£25.77,Debit,Card
+21/04/2026,TfL Travel,Transport,5.25,Debit,Contactless
+21/04/2026,Bolt,Transport,8.19,Debit,Card
+23/04/2026,Wasabi,Eating Out,3.65,Debit,Card
+23/04/2026,TfL Travel,Transport,3.5,Debit,Contactless
+24/04/2026,TfL Travel,Transport,5.25,Debit,Contactless
+24/04/2026,Trainline,Transport,21.86,Debit,Card
+25/04/2026,Co-op,Groceries,37.27,Debit,Card
+27/04/2026,Sainsbury's,Groceries,24.79,Debit,Card
+27/04/2026,TfL Travel,Transport,1.75,Debit,Contactless
+28/04/2026,Co-op,,16.62,Debit,Card
+29/04/2026,Boots,Shopping,52.01,Debit,Card
+30/04/2026,TfL Travel,Transport,5.25,Debit,Contactless
+01/05/2026,Boots,Shopping,31.68,Debit,Card
+01/05/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+01/05/2026,Part-time job wages,Income,97.68,Credit,Bank Transfer
+02/05/2026,Sainsbury's,Groceries,19.79,Debit,Card
+02/05/2026,Transfer to parents,Household,£120.00,Debit,Bank Transfer
+03/05/2026,Wasabi,Eating Out,8.12,Debit,Card
+04/05/2026,McDonald's,Eating Out,6.39,Debit,Card
+04/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+05/05/2026,Aldi,Groceries,25,Debit,Card
+05/05/2026,Pret A Manger,Eating Out,£4.46,Debit,Card
+05/05/2026,Uber Eats,Eating Out,17.32,Debit,Card
+06/05/2026,Subway,Eating Out,11.25,Debit,Card
+06/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+06/05/2026,giffgaff,Bills,12,Debit,Direct Debit
+07/05/2026,Wasabi,Eating Out,6.56,Debit,Card
+07/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+08/05/2026,TfL Travel,Transport,1.75,Debit,Contactless
+08/05/2026,Spotify,Subscriptions,£6.99,Debit,Card
+09/05/2026,Sainsbury's,Groceries,14.09,Debit,Card
+09/05/2026,Wasabi,Eating Out,13.94,Debit,Card
+12/05/2026,Aldi,Groceries,9.39,Debit,Card
+12/05/2026,Nando's,Eating Out,9.9,Debit,Card
+12/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+13/05/2026,Pret A Manger,Eating Out,6.78,Debit,Card
+13/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+14/05/2026,TfL Travel,Transport,1.75,Debit,Contactless
+14/05/2026,Netflix,Subscriptions,5.99,Debit,Card
+15/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+15/05/2026,Part-time job wages,Income,122.1,Credit,Bank Transfer
+16/05/2026,Aldi,Groceries,18.66,Debit,Card
+16/05/2026,Uniqlo,Shopping,17.35,Debit,Card
+17/05/2026,Tesco,Groceries,31.58,Debit,Card
+18/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+19/05/2026,Co-op,Groceries,24.89,Debit,Card
+19/05/2026,TfL Travel,Transport,1.75,Debit,Contactless
+20/05/2026,Costa Coffee,Eating Out,10.55,Debit,Card
+20/05/2026,Costa Coffee,Eating Out,10.55,Debit,Card
+20/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+20/05/2026,iCloud+,Subscriptions,0.99,Debit,Card
+22/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+23/05/2026,Co-op,Groceries,22.35,Debit,Card
+24/05/2026,Wasabi,Eating Out,£3.99,Debit,Card
+26/05/2026,Aldi,Groceries,11.31,Debit,Card
+26/05/2026,Nando's,Eating Out,£14.30,Debit,Card
+26/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+28/05/2026,TfL Travel,Transport,3.5,Debit,Contactless
+29/05/2026,Part-time job wages,Income,146.52,Credit,Bank Transfer
+30/05/2026,Aldi,Groceries,36.41,Debit,Card
+30/05/2026,Just Eat,Eating Out,13.49,Debit,Card
+30/05/2026,Just Eat,Eating Out,13.49,Debit,Card
+01/06/2026,Vue Cinema,Entertainment,23.21,Debit,Card
+01/06/2026,Amazon,Education,11.28,Debit,Card
+01/06/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/06/2026,Sainsbury's,Groceries,34.23,Debit,Card
+02/06/2026,McDonald's,,3.85,Debit,Card
+02/06/2026,TfL Travel,Transport,3.5,Debit,Contactless
+02/06/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/06/2026,Nando's,Eating Out,9.41,Debit,Card
+03/06/2026,TfL Travel,Transport,5.25,Debit,Contactless
+03/06/2026,Bolt,Transport,21.07,Debit,Card
+04/06/2026,TfL Travel,Transport,3.5,Debit,Contactless
+05/06/2026,Just Eat,,14.63,Debit,Card
+05/06/2026,TfL Travel,Transport,,Debit,Contactless
+06/06/2026,Tesco,Groceries,34.69,Debit,Card
+06/06/2026,Pret A Manger,Eating Out,11.05,Debit,Card
+06/06/2026,giffgaff,Bills,12,Debit,Direct Debit
+08/06/2026,TfL Travel,,1.75,Debit,Contactless
+08/06/2026,Spotify,Subscriptions,£6.99,Debit,Card
+09/06/2026,Co-op,Groceries,8.27,Debit,Card
+09/06/2026,Uber Eats,Eating Out,26.94,Debit,Card
+09/06/2026,TfL Travel,Transport,5.25,Debit,Contactless
+10/06/2026,Tesco,Groceries,6.44,Debit,Card
+10/06/2026,Greggs,Eating Out,16.26,Debit,Card
+12/06/2026,Part-time job wages,Income,244.2,Credit,Bank Transfer
+13/06/2026,Tesco,Groceries,13.82,Debit,Card
+14/06/2026,Sainsbury's,Groceries,28.45,Debit,Card
+14/06/2026,Subway,Eating Out,10.08,Debit,Card
+14/06/2026,Netflix,Subscriptions,5.99,Debit,Card
+15/06/2026,Uber Eats,Eating Out,16.35,Debit,Card
+16/06/2026,Lidl,Groceries,7.77,Debit,Card
+17/06/2026,Greggs,Eating Out,6.05,Debit,Card
+20/06/2026,Aldi,Groceries,33.71,Debit,Card
+20/06/2026,iCloud+,Subscriptions,0.99,Debit,Card
+21/06/2026,Subway,Eating Out,11.08,Debit,Card
+22/06/2026,Aldi,Groceries,6.77,Debit,Card
+22/06/2026,Trainline,Transport,28.4,Debit,Card
+23/06/2026,Lidl,Groceries,9.33,Debit,Card
+26/06/2026,Part-time job wages,Income,341.88,Credit,Bank Transfer
+27/06/2026,Tesco,Groceries,10.97,Debit,Card
+27/06/2026,Five Guys,Eating Out,7.05,Debit,Card
+30/06/2026,Aldi,Groceries,23.79,Debit,Card
+01/07/2026,Wasabi,Eating Out,7.9,Debit,Card
+01/07/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/07/2026,Aldi,Groceries,31.9,Debit,Card
+02/07/2026,Subway,Eating Out,£4.28,Debit,Card
+02/07/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+04/07/2026,Co-op,Groceries,13.87,Debit,Card
+04/07/2026,Wasabi,Eating Out,15.3,Debit,Card
+05/07/2026,Bolt,Transport,£20.51,Debit,Card
+06/07/2026,giffgaff,Bills,12,Debit,Direct Debit
+07/07/2026,Aldi,Groceries,22.94,Debit,Card
+08/07/2026,Nando's,Eating Out,10.85,Debit,Card
+08/07/2026,Spotify,Subscriptions,6.99,Debit,Card
+10/07/2026,Odeon,Entertainment,15.07,Debit,Card
+10/07/2026,Part-time job wages,Income,341.88,Credit,Bank Transfer
+11/07/2026,Aldi,Groceries,6.02,Debit,Card
+12/07/2026,Co-op,Groceries,28.55,Debit,Card
+12/07/2026,Pret A Manger,Eating Out,14.77,Debit,Card
+13/07/2026,Costa Coffee,Eating Out,13.12,Debit,Card
+14/07/2026,Co-op,Groceries,31.18,Debit,Card
+14/07/2026,Costa Coffee,Eating Out,7.99,Debit,Card
+14/07/2026,Argos,Shopping,56.05,Debit,Card
+14/07/2026,Netflix,Subscriptions,5.99,Debit,Card
+15/07/2026,Nando's,Eating Out,11.77,Debit,Card
+16/07/2026,Vue Cinema,Entertainment,15.73,Debit,Card
+17/07/2026,Greggs,Eating Out,3.2,Debit,Card
+18/07/2026,Aldi,Groceries,9.25,Debit,Card
+19/07/2026,Pret A Manger,Eating Out,3.58,Debit,Card
+20/07/2026,iCloud+,Subscriptions,0.99,Debit,Card
+21/07/2026,Tesco,Groceries,16.6,Debit,Card
+22/07/2026,Primark,Shopping,22.67,Debit,Card
+23/07/2026,Costa Coffee,Eating Out,11.75,Debit,Card
+24/07/2026,Part-time job wages,Income,293.04,Credit,Bank Transfer
+25/07/2026,Sainsbury's,Groceries,32.79,Debit,Card
+26/07/2026,Greggs,Eating Out,14.69,Debit,Card
+27/07/2026,Greggs,Eating Out,£9.78,Debit,Card
+28/07/2026,Sainsbury's,Groceries,36.37,Debit,Card
+28/07/2026,Nando's,eating out,14.22,Debit,Card
+29/07/2026,Pret A Manger,Eating Out,3.76,Debit,Card
+29/07/2026,Brunel Students' Union,Education,26.43,Debit,Card
+31/07/2026,McDonald's,Eating Out,15.08,Debit,Card
+01/08/2026,Sainsbury's,Groceries,14.81,Debit,Card
+01/08/2026,Wasabi,Eating Out,3.06,Debit,Card
+01/08/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/08/2026,Lidl,Groceries,15.95,Debit,Card
+02/08/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+04/08/2026,Aldi,Groceries,30.3,Debit,Card
+05/08/2026,Deliveroo,Eating Out,£26.00,Debit,Card
+05/08/2026,Amazon,Shopping,60.08,Debit,Card
+06/08/2026,giffgaff,Bills,12,Debit,Direct Debit
+07/08/2026,Part-time job wages,Income,293.04,Credit,Bank Transfer
+08/08/2026,Tesco,Groceries,11.21,Debit,Card
+08/08/2026,Spotify,Subscriptions,6.99,Debit,Card
+09/08/2026,Tesco,Groceries,21.17,Debit,Card
+09/08/2026,Costa Coffee,Eating Out,11.22,Debit,Card
+09/08/2026,Uber Eats,Eating Out,21.73,Debit,Card
+10/08/2026,Brunel Students' Union,Education,38.79,Debit,Card
+11/08/2026,Lidl,Groceries,23.97,Debit,Card
+11/08/2026,Lidl,Groceries,23.97,Debit,Card
+13/08/2026,ASOS,Shopping,64.85,Debit,Card
+14/08/2026,Nando's,Eating Out,7.48,Debit,Card
+14/08/2026,Netflix,Subscriptions,,Debit,Card
+15/08/2026,Lidl,Groceries,33.05,Debit,Card
+16/08/2026,Subway,Eating Out,11.99,Debit,Card
+18/08/2026,Sainsbury's,Groceries,22.02,Debit,Card
+20/08/2026,Greggs,Eating Out,2.57,Debit,Card
+20/08/2026,iCloud+,Subscriptions,£0.99,Debit,Card
+21/08/2026,Vue Cinema,Entertainment,34.5,Debit,Card
+21/08/2026,Vue Cinema,Entertainment,34.5,Debit,Card
+21/08/2026,Part-time job wages,Income,293.04,Credit,Bank Transfer
+22/08/2026,Co-op,Groceries,12.1,Debit,Card
+23/08/2026,Greggs,Eating Out,6.82,Debit,Card
+25/08/2026,Sainsbury's,Groceries,12.76,Debit,Card
+25/08/2026,Costa Coffee,Eating Out,4.29,Debit,Card
+26/08/2026,Pret A Manger,Eating Out,11.98,Debit,Card
+26/08/2026,Just Eat,Eating Out,13.85,Debit,Card
+27/08/2026,Wasabi,Eating Out,12.09,Debit,Card
+28/08/2026,Pret A Manger,Eating Out,13.88,Debit,Card
+29/08/2026,Aldi,Groceries,15.45,Debit,Card
+29/08/2026,Five Guys,Eating Out,,Debit,Card
+29/08/2026,Primark,Shopping,59.41,Debit,Card
+30/08/2026,Pret A Manger,eating out,12.99,Debit,Card
+31/08/2026,Greggs,Eating Out,14.86,Debit,Card
+01/09/2026,Tesco,Groceries,33.26,Debit,Card
+01/09/2026,The Gym Group,Health & Fitness,24.99,Debit,Direct Debit
+02/09/2026,Wasabi,Eating Out,8.3,Debit,Card
+02/09/2026,Transfer to parents,Household,120,Debit,Bank Transfer
+03/09/2026,Greggs,Eating Out,16.73,Debit,Card
+04/09/2026,Part-time job wages,Income,293.04,Credit,Bank Transfer
+05/09/2026,Tesco,Groceries,£34.40,Debit,Card
+05/09/2026,Just Eat,Eating Out,17.03,Debit,Card
+06/09/2026,giffgaff,Bills,12,Debit,Direct Debit
+08/09/2026,Sainsbury's,Groceries,22.18,Debit,Card
+08/09/2026,Sainsbury's,Groceries,22.18,Debit,Card
+08/09/2026,Spotify,Subscriptions,6.99,Debit,Card
+10/09/2026,Five Guys,Eating Out,13.31,Debit,Card
+10/09/2026,Uber Eats,Eating Out,18.6,Debit,Card
+10/09/2026,Trainline,Transport,18.64,Debit,Card
+11/09/2026,Five Guys,Eating Out,16.28,Debit,Card
+12/09/2026,Aldi,Groceries,28.93,Debit,Card
+12/09/2026,Superdrug,Shopping,54.79,Debit,Card
+13/09/2026,Deliveroo,Eating Out,19.88,Debit,Card
+14/09/2026,Netflix,Subscriptions,5.99,Debit,Card
+15/09/2026,Co-op,Groceries,9.94,Debit,Card
+15/09/2026,Hollywood Bowl,ENTERTAINMENT,7.89,Debit,Card
+18/09/2026,Part-time job wages,Income,293.04,Credit,Bank Transfer
+19/09/2026,Co-op,Groceries,33.54,Debit,Card
+20/09/2026,iCloud+,Subscriptions,0.99,Debit,Card
+22/09/2026,Tesco,Groceries,22.73,Debit,Card
+22/09/2026,Costa Coffee,Eating Out,3.27,Debit,Card
+22/09/2026,Uber Eats,Eating Out ,24,Debit,Card
+22/09/2026,TfL Travel,Transport,3.5,Debit,Contactless
+25/09/2026,McDonald's,Eating Out,5.44,Debit,Card
+26/09/2026,Co-op,,23.49,Debit,Card
+28/09/2026,TfL Travel,Transport,3.5,Debit,Contactless
+29/09/2026,Co-op,Groceries,23.61,Debit,Card
+29/09/2026,Subway,Eating Out,10.12,Debit,Card
+29/09/2026,TfL Travel,Transport,3.5,Debit,Contactless
+30/09/2026,Brunel Students' Union,Education,16.46,Debit,Card
